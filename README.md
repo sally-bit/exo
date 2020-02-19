@@ -4,7 +4,7 @@
 
 
 
-```js
+```console
 $ echo id 
 $ cd desktop
 $ test
